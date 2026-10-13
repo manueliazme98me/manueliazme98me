@@ -228,7 +228,7 @@ Modern SaaS architecture:
 
 <a href="https://linkedin.com">
 
-<img src="https://img.shields.io/badge/GitHub-47A248?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedIn-47A248?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
