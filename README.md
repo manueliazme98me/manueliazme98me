@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  Building intelligent products with Next.js, Python, TypeScript and AI.
+  Building intelligent products with TypeScript, JavaScript, Python and AI.
 </p>
 
 <p align="center">
@@ -69,11 +69,11 @@ I build:
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 </p>
 
@@ -136,10 +136,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueliazme9
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=manueliazme98me&theme=tokyonight&hide_border=true"
-/>
-
+<img src="https://streak-stats.demolab.com?user=manueliazme98me&theme=tokyonight&hide_border=true"/>
 </p>
 
 
