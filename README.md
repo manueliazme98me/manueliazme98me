@@ -235,12 +235,12 @@ Modern SaaS architecture:
 
 <a href="https://linkedin.com">
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp"/>
 
 </a>
 
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:manueliazme98@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 
