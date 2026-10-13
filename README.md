@@ -118,12 +118,9 @@ I build:
 
 <p align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=manueliazme98me&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manueliazme98me&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueliazme98me&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueliazme98me&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -135,6 +132,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueliazme9
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=manueliazme98me&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 
