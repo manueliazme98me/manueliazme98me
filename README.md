@@ -226,23 +226,27 @@ Modern SaaS architecture:
 <p align="center">
 
 
-<a href="https://github.com/manueliazme98me">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-
 <a href="https://linkedin.com">
 
-<img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp"/>
+<img src="https://img.shields.io/badge/GitHub-47A248?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 </a>
 
+<a href="https://wa.me/19295487825">
+
+<img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+</a>
+
+<a href="https://t.me/brownmillos">
+
+<img src="https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram&logoColor=white"/>
+
+</a>
 
 <a href="mailto:manueliazme98@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
