@@ -132,7 +132,7 @@ I build:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manueliazme98me&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manueliazme98me&theme=tokyonight" alt="GitHub Profile Summary"/>
 
 </p>
 
