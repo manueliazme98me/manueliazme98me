@@ -114,6 +114,10 @@ I build:
 
 <img src="https://github-readme-stats.vercel.app/api?username=manueliazme98me&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="190"/>
 
+</p>
+
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueliazme98me&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="190"/>
 
 </p>
@@ -126,26 +130,19 @@ I build:
 
 # 🏆 GitHub Achievements
 
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manueliazme98me&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manueliazme98me&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 
 </p>
-
-
 
 # 🐍 Contribution Snake
 
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/manueliazme98me/manueliazme98me/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/manueliazme98me/manueliazme98me/output/github-contribution-grid-snake.svg?raw=true" alt="Contribution Snake"/>
 
 </p>
-
-
-
 
 # 🚀 Featured Projects
 
