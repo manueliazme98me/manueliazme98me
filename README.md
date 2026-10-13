@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  👋 Hi, I'm Minion
+  👋 Hi, I'm Manuel Diaz
 </h1>
 
 <h3 align="center">
