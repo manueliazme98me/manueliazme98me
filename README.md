@@ -108,34 +108,6 @@ I build:
 
 </p>
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manueliazme98me&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="190"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueliazme98me&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="190"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=manueliazme98me&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</p>
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manueliazme98me&theme=tokyonight" alt="GitHub Profile Summary"/>
-
-</p>
-
 # 🐍 Contribution Snake
 
 <p align="center">
