@@ -173,7 +173,7 @@ Modern SaaS architecture:
 
 </a>
 
-<a href="https://wa.me/19295487825">
+<a href="https://wa.me/13214852291">
 
 <img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
